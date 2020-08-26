@@ -15,8 +15,8 @@ def baner():
     print ('''
 \tALL SPAM OTP
 \t------------
-\nCreator:Zheck Savalas 
-Youtube: Zheck Savalas 
+\nCreator:./function 
+Youtube: Zacky Saksakame 
 Github : github.com/ZheckSavalas
 ==========================================''')
 def kata(s):
